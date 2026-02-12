@@ -1,4 +1,4 @@
-# Exercise 11 - Responsive Design
+# Exercise 04 - Responsive Design
 
 Build a responsive landing page using mobile-first approach.
 
